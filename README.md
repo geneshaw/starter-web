@@ -5,7 +5,11 @@ This is a simple project to show the use of GIT
 My Intro
 
 ## Purpose
+Purpose in life 
 
 ## Deployment
+How to deploy me
 
 ## How to Contribute
+
+How to contrib goes here
