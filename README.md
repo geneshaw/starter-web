@@ -13,3 +13,6 @@ How to deploy me
 ## How to Contribute
 
 How to contrib goes here
+
+### Copyright
+My copy right
