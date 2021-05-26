@@ -12,7 +12,7 @@ How to deploy me
 
 ## How to Contribute
 
-How to contrib goes here
+How to contrib goes here.   Adding some more info the master branch
 
 ### Copyright
 My copy right
