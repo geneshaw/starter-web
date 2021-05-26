@@ -6,9 +6,11 @@ My Intro
 
 ## Purpose
 Purpose in life 
+Charlie likes me
 
 ## Deployment
 How to deploy me
+More info on how to deploy 
 
 ## How to Contribute
 
