@@ -3,6 +3,7 @@
 This is a simple project to show the use of GIT
 ## Introduction
 My Intro
+more text
 
 ## Purpose
 Purpose in life 
