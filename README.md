@@ -4,6 +4,7 @@ This is a simple project to show the use of GIT
 ## Introduction
 My Intro
 more text
+more more text from branch myfeature
 
 ## Purpose
 Purpose in life 
